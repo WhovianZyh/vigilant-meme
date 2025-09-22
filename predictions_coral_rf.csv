@@ -1,0 +1,17 @@
+file,pred_label
+./data\target\A.mat,IR
+./data\target\B.mat,IR
+./data\target\C.mat,IR
+./data\target\D.mat,OR
+./data\target\E.mat,IR
+./data\target\F.mat,OR
+./data\target\G.mat,OR
+./data\target\H.mat,IR
+./data\target\I.mat,IR
+./data\target\J.mat,IR
+./data\target\K.mat,OR
+./data\target\L.mat,OR
+./data\target\M.mat,OR
+./data\target\N.mat,B
+./data\target\O.mat,OR
+./data\target\P.mat,OR
